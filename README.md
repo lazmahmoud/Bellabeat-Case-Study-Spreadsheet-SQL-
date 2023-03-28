@@ -1,2 +1,4 @@
-# Bellabeat-Case-Study-Spreadsheet-SQL-
-Google Data Analytics Capstone: Bellabeat Case Study, How Can a Wellness Technology Company Play It Smart?
+# Bellabeat Case-Study in Spreadsheet, SQL & R.
+## Google Data Analytics Capstone: Bellabeat Case Study
+
+## <span style ="color: red">Table of Contents</span>
